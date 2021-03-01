@@ -67,7 +67,7 @@ export default {
   painting_sorolla_tex: { url: 'paintings/sorolla.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
   painting_bosch_tex: { url: 'paintings/bosch.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
   painting_degas_tex: { url: 'paintings/degas.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
-  painting_rembrandt_tex: { url: 'paintings/rembrandt.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
+  painting_rembrandt_tex: { url: 'paintings/UhLogo.basis', options: { encoding: THREE.sRGBEncoding, flipY: false} },
 
   // sounds
   birds_snd: { url: 'ogg/birds.ogg' },
